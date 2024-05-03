@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class App {
+public class Application {
     public static void main(String[] args) {
 
         ArrayList<AthleteInformation> athletes = new ArrayList<AthleteInformation>();
